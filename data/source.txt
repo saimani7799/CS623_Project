@@ -1,0 +1,2 @@
+http://s3.cleverelephant.ca/
+http://s3.cleverelephant.ca/postgis-workshop-2018.zip
